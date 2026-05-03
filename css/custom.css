@@ -1,12 +1,9 @@
 /* ==================== 导航栏 Logo 隐藏 ==================== */
-#nav .site-brand #blog_name .site-title,
-#nav .site-brand .site-name {
-  /* 保留文字标题 */
-}
 #nav .site-brand .site-logo,
 #nav .site-brand #blog_name img,
 #nav img.site-icon,
-.navbar-brand img {
+.navbar-brand img,
+#nav .site-brand-aside img {
   display: none !important;
 }
 
@@ -20,7 +17,6 @@
   background-attachment: scroll;
 }
 
-/* 让页脚文字在深色背景上可见 */
 #footer::before {
   content: '';
   position: absolute;
@@ -37,16 +33,58 @@
   z-index: 1;
 }
 
-/* 首页 hero 区域也使用背景图 */
 #page-header {
   background: url('/images/bg.png') center/cover no-repeat !important;
 }
 
-/* 底部文字颜色改为浅色 */
 #footer {
   color: #e0e0e0 !important;
 }
 
 #footer a {
   color: #a0d8ef !important;
+}
+
+/* ==================== APlayer 左下角停靠 + 收缩 ==================== */
+.aplayer.aplayer-fixed {
+  left: 16px !important;
+  bottom: 16px !important;
+  z-index: 9999 !important;
+}
+
+/* 隐藏默认收起按钮，用自定义浮层代替 */
+.aplayer .aplayer-body .aplayer-icon-back,
+.aplayer .aplayer-body .aplayer-icon-forward {
+  display: none;
+}
+
+/* 播放器初始状态折叠（只显示迷你条） */
+.aplayer.aplayer-fixed.aplayer-narrow {
+  height: 40px !important;
+  overflow: hidden;
+}
+
+/* 收缩按钮浮层 */
+#music-toggle-btn {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  width: 44px;
+  height: 44px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 9998;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  transition: all 0.3s ease;
+  color: #fff;
+  font-size: 18px;
+}
+
+#music-toggle-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
 }
