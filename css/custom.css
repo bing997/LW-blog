@@ -10,7 +10,7 @@
 /* ==================== 底部蓝色背景修复 ==================== */
 #footer {
   background: transparent !important;
-  background-image: url('/images/bg.png') !important;
+  background-image: url('../images/bg.png') !important;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 }
 
 #page-header {
-  background: url('/images/bg.png') center/cover no-repeat !important;
+  background: url('../images/bg.png') center/cover no-repeat !important;
 }
 
 #footer {
