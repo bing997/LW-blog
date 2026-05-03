@@ -1,0 +1,40 @@
+/* ==================== 底部蓝色背景修复 ==================== */
+#footer {
+  background: transparent !important;
+  background-image: url('/images/bg.png') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+/* 让页脚文字在深色背景上可见 */
+#footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 0;
+}
+
+#footer > div {
+  position: relative;
+  z-index: 1;
+}
+
+/* 首页 hero 区域也使用背景图 */
+#page-header {
+  background: url('/images/bg.png') center/cover no-repeat !important;
+}
+
+/* 底部文字颜色改为浅色 */
+#footer {
+  color: #e0e0e0 !important;
+}
+
+#footer a {
+  color: #a0d8ef !important;
+}
