@@ -1,5 +1,4 @@
 # 统一行结束符为 LF
-* text=auto
 *.md text eol=lf
 *.yml text eol=lf
 *.yaml text eol=lf
@@ -12,3 +11,4 @@
 *.jpg binary
 *.gif binary
 *.ico binary
+.gitattributes text eol=lf
