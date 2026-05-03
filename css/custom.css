@@ -1,3 +1,15 @@
+/* ==================== 导航栏 Logo 隐藏 ==================== */
+#nav .site-brand #blog_name .site-title,
+#nav .site-brand .site-name {
+  /* 保留文字标题 */
+}
+#nav .site-brand .site-logo,
+#nav .site-brand #blog_name img,
+#nav img.site-icon,
+.navbar-brand img {
+  display: none !important;
+}
+
 /* ==================== 底部蓝色背景修复 ==================== */
 #footer {
   background: transparent !important;
