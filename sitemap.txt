@@ -1,8 +1,8 @@
+https://bing997.github.io/LW-blog/projects/index.html
 https://bing997.github.io/LW-blog/books/index.html
 https://bing997.github.io/LW-blog/gallery/index.html
 https://bing997.github.io/LW-blog/categories/index.html
 https://bing997.github.io/LW-blog/tags/index.html
-https://bing997.github.io/LW-blog/projects/index.html
 https://bing997.github.io/LW-blog/projects/type-categories.html
 https://bing997.github.io/LW-blog/projects/domain-categories.html
 https://bing997.github.io/LW-blog/projects/tech-categories.html
