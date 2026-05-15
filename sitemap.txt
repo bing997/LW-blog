@@ -1,12 +1,11 @@
-https://bing997.github.io/LW-blog/projects.json
-https://bing997.github.io/LW-blog/projects/domain-categories.html
+https://bing997.github.io/LW-blog/projects/index.html
 https://bing997.github.io/LW-blog/tags/index.html
+https://bing997.github.io/LW-blog/projects/domain-categories.html
 https://bing997.github.io/LW-blog/categories/index.html
 https://bing997.github.io/LW-blog/gallery/index.html
 https://bing997.github.io/LW-blog/books/index.html
 https://bing997.github.io/LW-blog/projects/tech-categories.html
 https://bing997.github.io/LW-blog/projects/type-categories.html
-https://bing997.github.io/LW-blog/projects/index.html
 https://bing997.github.io/LW-blog/2024/08/22/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89%E5%88%9D%E8%AF%86%20-%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%20-%20%E5%88%9B%E5%BB%BAVue%E5%AF%B9%E8%B1%A1%20-%20%E5%8F%8C%E5%90%91%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%20-%20MVVM%E6%A8%A1%E5%BC%8F/
 https://bing997.github.io/LW-blog/2024/09/04/node.js/document/02-Node.js%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91/
 https://bing997.github.io/LW-blog/2024/08/01/node.js/document/01-ES6%E5%9F%BA%E7%A1%80/
@@ -48,10 +47,10 @@ https://bing997.github.io/LW-blog/tags/%E6%AF%95%E8%AE%BE/
 https://bing997.github.io/LW-blog/tags/bootstrap/
 https://bing997.github.io/LW-blog/tags/%E6%95%99%E7%A8%8B/
 https://bing997.github.io/LW-blog/tags/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/
+https://bing997.github.io/LW-blog/tags/Node-js/
 https://bing997.github.io/LW-blog/tags/test/
 https://bing997.github.io/LW-blog/tags/Vue/
-https://bing997.github.io/LW-blog/tags/Node-js/
 https://bing997.github.io/LW-blog/categories/%E5%85%AC%E5%91%8A/
 https://bing997.github.io/LW-blog/categories/bootstrap/
-https://bing997.github.io/LW-blog/categories/Vue/
 https://bing997.github.io/LW-blog/categories/Node-js/
+https://bing997.github.io/LW-blog/categories/Vue/
