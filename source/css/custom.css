@@ -1,0 +1,184 @@
+/* ==================== 导航栏 Logo 隐藏 ==================== */
+#nav .site-brand .site-logo,
+#nav .site-brand #blog_name img,
+#nav img.site-icon,
+.navbar-brand img,
+#nav .site-brand-aside img {
+  display: none !important;
+}
+
+/* ==================== 底部蓝色背景修复（透明+显示背景图） ==================== */
+
+/* 1. footer 容器：完全透明 */
+#footer {
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  color: #e0e0e0 !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+/* 2. footer 内的所有容器也透明 */
+#footer .footer-other,
+#footer .footer-warp,
+#footer .framework-info,
+#footer .footer-copyright,
+#footer .footer-bottom,
+#footer .copyright,
+#footer .additional-content,
+#footer .footer-info,
+#footer > div,
+#footer > section {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* 3. footer 文本颜色适配深色背景 */
+#footer a {
+  color: #a0d8ef !important;
+}
+
+/* 4. 移除 ::before 遮罩，改用 background-attachment 实现背景图显示 */
+#footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('../images/bg.png') center/cover no-repeat;
+  z-index: -1;
+  opacity: 0.6;
+}
+
+/* 5. 让 footer 内容在背景图之上 */
+#footer > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* 6. 确保页面的 body 背景可见 */
+#web_bg,
+.bg-animation {
+  z-index: -999 !important;
+}
+
+/* 7. 顶部 header 背景 */
+#page-header {
+  background: url('../images/bg.png') center/cover no-repeat !important;
+}
+
+/* ==================== 标签云美化 ==================== */
+
+/* 标签云容器 */
+.tag-cloud-list {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  padding: 20px 0;
+}
+
+/* 单个标签项 */
+.tag-cloud-list a {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px !important;
+  border-radius: 20px !important;
+  font-size: 14px !important;
+  color: #fff !important;
+  text-decoration: none;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: none !important;
+  line-height: 1.5 !important;
+}
+
+/* 标签悬停效果 */
+.tag-cloud-list a:hover {
+  transform: translateY(-3px) scale(1.05) !important;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25) !important;
+  filter: brightness(1.15);
+}
+
+/* ==================== 分类卡片美化 ==================== */
+
+/* 分类列表容器 */
+.category-lists ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* 分类项 */
+.category-lists .category-list-item {
+  margin: 8px 0;
+}
+
+/* 分类链接 */
+.category-lists .category-list-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 12px;
+  background: var(--card-bg);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  color: var(--font-color);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* 分类链接悬停 */
+.category-lists .category-list-link:hover {
+  transform: translateX(6px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  background: var(--btn-color);
+  color: #fff;
+}
+
+/* 分类计数徽标 */
+.category-lists .category-list-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 26px;
+  height: 26px;
+  padding: 0 8px;
+  border-radius: 13px;
+  background: rgba(255, 255, 255, 0.25);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* ==================== noteblock 样式增强 ==================== */
+
+/* 标签/分类页内的 noteblock 表格美化 */
+#article-container .note table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 8px 0;
+}
+
+#article-container .note table th,
+#article-container .note table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  text-align: left;
+  font-size: 14px;
+}
+
+#article-container .note table th {
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.03);
+}
+
+#article-container .note table tr:hover {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+#article-container .note table tr:last-child td {
+  border-bottom: none;
+}

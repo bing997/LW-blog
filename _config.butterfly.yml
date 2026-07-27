@@ -1,0 +1,272 @@
+# --------------------------------------
+# Butterfly Theme Configuration
+# --------------------------------------
+
+# Language
+language: zh-CN
+
+# Navigation Settings
+nav:
+  logo:
+    display_title: true
+    display_post_title: true
+  fixed: true
+
+menu:
+  主页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  文档 || fas fa-book:
+    标签: /tags/ || fas fa-tags
+    分类: /categories/ || fas fa-folder-open
+  爱好 || fas fa-heartbeat:
+    图片: /gallery/ || fas fa-images
+    书籍: /books/ || fas fa-book
+  项目: /projects/ || fas fa-project-diagram
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+# Code Blocks Settings
+code_blocks:
+  theme: light
+  macStyle: true
+  height_limit: 500
+  word_wrap: true
+  copy: true
+  language: true
+  shrink: true
+  fullpage: false
+
+# Social media links
+social:
+  fab fa-github: https://github.com/bing997 || Github || '#24292e'
+  fas fa-envelope: mailto:1191451139@qq.com || Email || '#000000'
+
+# Image Settings
+favicon: /images/logo.png
+avatar:
+  img: /img/avatar.jpg
+  effect: false
+
+disable_top_img: false
+default_top_img: /images/bg.png
+index_img: /images/bg.png
+archive_img: /images/bg.png
+background: /images/bg.png
+
+cover:
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  default_cover:
+
+error_img:
+  flink: /img/friend_404.gif
+  post_page: /img/404.jpg
+
+error_404:
+  enable: false
+  subtitle: 'Page Not Found'
+  background: /img/error-page.png
+
+# Homepage subtitle with typing effect
+subtitle:
+  enable: true
+  effect: true
+  startDelay: 300
+  typeSpeed: 300
+  backSpeed: 350
+  loop: true
+  source: false
+  sub:
+    - '我们不需要成为完美的人,接受自己的不完美,才能过上更轻松自在的生活'
+    - "We don't need to be perfect and accept our imperfections in order to live a more relaxed life"
+
+# Index page settings
+index_layout: 3
+index_post_content:
+  method: 2
+  length: 500
+
+# Post Settings
+toc:
+  post: true
+  page: false
+  number: false
+  expand: false
+  scroll_percent: true
+
+post_copyright:
+  enable: true
+  decode: false
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+related_post:
+  enable: true
+  limit: 6
+  date_type: created
+
+post_pagination: 1
+
+noticeOutdate:
+  enable: false
+  style: flat
+  limit_day: 365
+  position: top
+
+# Footer Settings
+footer:
+  owner:
+    enable: true
+    since: 2019
+  copyright:
+    enable: true
+    version: true
+
+# Aside Settings
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true
+  position: right
+  display:
+    archive: true
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description: Super Bing 的技术博客
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/bing997
+  card_announcement:
+    enable: true
+    content: 欢迎访问！记录学习与成长的每一步。
+  card_recent_post:
+    enable: true
+    limit: 5
+    sort: date
+  card_newest_comments:
+    enable: false
+  card_categories:
+    enable: true
+    limit: 8
+    expand: none
+  card_tags:
+    enable: true
+    limit: 40
+    color: false
+    orderby: random
+  card_archives:
+    enable: true
+    type: monthly
+    format: MMMM YYYY
+    order: -1
+    limit: 8
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+  card_post_series:
+    enable: false
+
+# Right side settings
+rightside_bottom:
+rightside_scroll_percent: false
+rightside_config_animation: true
+
+# Dark Mode
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: false
+
+# Read Mode
+readmode: true
+
+# Busuanzi count
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+# Word count
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
+
+# Search
+search:
+  use: local_search
+  placeholder: 搜索文章...
+  local_search:
+    enable: true
+    preload: false
+    top_n_per_article: 1
+    unescape: false
+
+# Share
+share:
+  use: sharejs
+  sharejs:
+    sites: facebook,twitter,wechat,weibo,qq
+
+# Comments (leave empty, no comments system configured)
+comments:
+  use:
+  text: true
+  lazyload: false
+  count: false
+  card_post_count: false
+
+# Beautify
+beautify:
+  enable: false
+  field: site
+
+# Note
+note:
+  style: flat
+  icons: true
+  border_radius: 3
+  light_bg_offset: 0
+
+# Pjax
+pjax:
+  enable: true
+  loadjs: true
+  cache: false
+  maxCacheLength: 20
+  delay: 0
+  timeout: 3000
+  exclude: []
+
+# Custom CSS injection
+inject:
+  head:
+    - '<link rel="stylesheet" href="/css/custom.css">'
+    - '<link rel="stylesheet" href="/music/player.css">'
+  bottom:
+    - '<script src="/music/player.js" defer></script>'
+
+# Snackbar
+snackbar:
+  enable: false
+  position: bottom-left
+
+# Lightbox（图片灯箱）
+# Choose: fancybox / medium_zoom
+# https://github.com/francoischalifour/medium-zoom
+# https://fancyapps.com/fancybox/
+lightbox: fancybox
+
+# CDN
+CDN:
+  internal_provider: local
+  third_party_provider: jsdelivr
+  version: false

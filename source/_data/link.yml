@@ -1,0 +1,11 @@
+- class_name: 置顶
+  class_desc: 网站置顶
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      descr: 快速、简洁且高效的博客框架
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657e5bf46f11bc6faa8c4dca2b3e51c87ae65/0f0cd/images/theme/logo.svg
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      descr: A Simple and Card UI Design theme for Hexo
+      avatar: https://butterfly.js.org/img/avatar.png
