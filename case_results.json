@@ -1,0 +1,239 @@
+[
+  {
+    "case_num": "08",
+    "title_part": "项目案例：招聘网中的简历模板",
+    "url": "http://localhost:4000/2024/08/20/bootstrap/document/08-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E6%8B%9B%E8%81%98%E7%BD%91%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF/",
+    "status": 200,
+    "title": "08-项目案例：招聘网中的简历模板 | Super Bing`s Hexo",
+    "h1": "08-项目案例：招聘网中的简历模板",
+    "user_sections_found": {
+      "案例概述": true,
+      "涉及知识点": true,
+      "实现步骤": true,
+      "完整代码": true,
+      "关键技术解析": true
+    },
+    "actual_h2_sections": [
+      "一、案例概述",
+      "二、实现步骤拆解",
+      "三、完整代码",
+      "四、关键技术解析",
+      "五、小结"
+    ],
+    "actual_h3_subsections": [
+      "1.1 业务背景",
+      "1.2 涉及知识点",
+      "1.3 页面结构",
+      "2.1 左侧信息栏",
+      "2.2 导航与工作经历",
+      "2.3 专业技能（卡片嵌套）",
+      "2.4 教育经历（列表组）",
+      "2.5 综合概述（折叠面板）",
+      "3.1 HTML（index.html）",
+      "3.2 CSS",
+      "4.1 大屏固定 + 小屏堆叠",
+      "4.2 手风琴折叠",
+      "4.3 响应式根字号",
+      "4.4 联系页与相册页扩展"
+    ],
+    "notes": []
+  },
+  {
+    "case_num": "09",
+    "title_part": "项目案例：仿星巴克网站",
+    "url": "http://localhost:4000/2024/08/20/bootstrap/document/09-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E4%BB%BF%E6%98%9F%E5%B7%B4%E5%85%8B%E7%BD%91%E7%AB%99/",
+    "status": 200,
+    "title": "09-项目案例：仿星巴克网站 | Super Bing`s Hexo",
+    "h1": "09-项目案例：仿星巴克网站",
+    "user_sections_found": {
+      "案例概述": true,
+      "涉及知识点": true,
+      "实现步骤": true,
+      "完整代码": false,
+      "关键技术解析": true
+    },
+    "actual_h2_sections": [
+      "一、案例概述",
+      "二、实现步骤拆解",
+      "三、关键脚本",
+      "四、核心 CSS",
+      "五、关键技术解析",
+      "六、小结"
+    ],
+    "actual_h3_subsections": [
+      "1.1 业务背景",
+      "1.2 涉及知识点",
+      "1.3 页面结构",
+      "2.1 首页整体布局",
+      "2.2 可切换导航",
+      "2.3 轮播广告区",
+      "2.4 产品推荐（卡片瀑布流）",
+      "2.5 咖啡讲堂（左右切换）",
+      "2.6 底部移动端 Tab",
+      "3.1 咖啡讲堂左右切换",
+      "3.2 主导航与隐藏导航互斥",
+      "3.3 底部 Tab 高亮",
+      "5.1 PC 与移动端导航切换",
+      "5.2 轮播控制",
+      "5.3 card-columns 瀑布流",
+      "5.4 animate 切换动画"
+    ],
+    "notes": []
+  },
+  {
+    "case_num": "10",
+    "title_part": "项目案例：相册类博客项目",
+    "url": "http://localhost:4000/2024/08/20/bootstrap/document/10-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E7%9B%B8%E5%86%8C%E7%B1%BB%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/",
+    "status": 200,
+    "title": "10-项目案例：相册类博客项目 | Super Bing`s Hexo",
+    "h1": "10-项目案例：相册类博客项目",
+    "user_sections_found": {
+      "案例概述": true,
+      "涉及知识点": true,
+      "实现步骤": true,
+      "完整代码": false,
+      "关键技术解析": true
+    },
+    "actual_h2_sections": [
+      "一、案例概述",
+      "二、实现步骤拆解",
+      "三、关键 CSS",
+      "四、关键技术解析",
+      "五、小结"
+    ],
+    "actual_h3_subsections": [
+      "1.1 业务背景",
+      "1.2 涉及知识点",
+      "1.3 页面结构",
+      "2.1 顶部导航栏",
+      "2.2 首页跑马灯",
+      "2.3 引入 Swipebox 灯箱",
+      "2.4 分类页：年份 Tab",
+      "2.5 博客页：双栏布局",
+      "2.6 联系页：Popover 表单",
+      "4.1 跑马灯无缝循环",
+      "4.2 Swipebox 灯箱",
+      "4.3 Tab + data-toggle&#x3D;”pill”",
+      "4.4 Popover 提示"
+    ],
+    "notes": []
+  },
+  {
+    "case_num": "11",
+    "title_part": "项目案例：设计流行企业网站",
+    "url": "http://localhost:4000/2024/08/20/bootstrap/document/11-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E8%AE%BE%E8%AE%A1%E6%B5%81%E8%A1%8C%E4%BC%81%E4%B8%9A%E7%BD%91%E7%AB%99/",
+    "status": 200,
+    "title": "11-项目案例：设计流行企业网站 | Super Bing`s Hexo",
+    "h1": "11-项目案例：设计流行企业网站",
+    "user_sections_found": {
+      "案例概述": true,
+      "涉及知识点": true,
+      "实现步骤": true,
+      "完整代码": false,
+      "关键技术解析": true
+    },
+    "actual_h2_sections": [
+      "一、案例概述",
+      "二、实现步骤拆解",
+      "三、核心 CSS",
+      "四、关键技术解析",
+      "五、小结"
+    ],
+    "actual_h3_subsections": [
+      "1.1 业务背景",
+      "1.2 涉及知识点",
+      "1.3 页面结构",
+      "2.1 顶部导航栏",
+      "2.2 Hero 大图",
+      "2.3 公司简介",
+      "2.4 服务展示",
+      "2.5 团队成员",
+      "2.6 客户评价",
+      "2.7 联系表单",
+      "2.8 侧边导航栏",
+      "2.9 登录页",
+      "4.1 Jumbotron 全屏背景",
+      "4.2 侧边栏折叠动画",
+      "4.3 客户评价 blockquote",
+      "4.4 团队头像圆形"
+    ],
+    "notes": []
+  },
+  {
+    "case_num": "12",
+    "title_part": "项目案例：Web设计与定制网站",
+    "url": "http://localhost:4000/2024/08/20/bootstrap/document/12-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9AWeb%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9A%E5%88%B6%E7%BD%91%E7%AB%99/",
+    "status": 200,
+    "title": "12-项目案例：Web设计与定制网站 | Super Bing`s Hexo",
+    "h1": "12-项目案例：Web设计与定制网站",
+    "user_sections_found": {
+      "案例概述": true,
+      "涉及知识点": true,
+      "实现步骤": true,
+      "完整代码": false,
+      "关键技术解析": true
+    },
+    "actual_h2_sections": [
+      "一、案例概述",
+      "二、实现步骤拆解",
+      "三、核心 CSS",
+      "四、关键技术解析",
+      "五、小结"
+    ],
+    "actual_h3_subsections": [
+      "1.1 业务背景",
+      "1.2 涉及知识点",
+      "1.3 页面结构",
+      "2.1 顶部固定导航",
+      "2.2 首页 Hero",
+      "2.3 关于我们",
+      "2.4 团队展示 + 数据看板",
+      "2.5 服务卡片",
+      "2.6 博客图廊",
+      "2.7 定制套餐",
+      "2.8 底部脚注",
+      "4.1 滚动监听 ScrollSpy",
+      "4.2 固定导航遮罩问题",
+      "4.3 数据看板的视觉技巧",
+      "4.4 价格套餐层次"
+    ],
+    "notes": []
+  },
+  {
+    "case_num": "13",
+    "title_part": "项目案例：开发神影视频网站",
+    "url": "http://localhost:4000/2024/08/20/bootstrap/document/13-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%BC%80%E5%8F%91%E7%A5%9E%E5%BD%B1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/",
+    "status": 200,
+    "title": "13-项目案例：开发神影视频网站 | Super Bing`s Hexo",
+    "h1": "13-项目案例：开发神影视频网站",
+    "user_sections_found": {
+      "案例概述": true,
+      "涉及知识点": true,
+      "实现步骤": true,
+      "完整代码": false,
+      "关键技术解析": true
+    },
+    "actual_h2_sections": [
+      "一、案例概述",
+      "二、实现步骤拆解",
+      "三、核心 CSS",
+      "四、关键技术解析",
+      "五、小结"
+    ],
+    "actual_h3_subsections": [
+      "1.1 业务背景",
+      "1.2 涉及知识点",
+      "1.3 页面结构",
+      "2.1 头部内容",
+      "2.2 轮播",
+      "2.3 分类列表",
+      "2.4 视频网格 + 热门排行",
+      "2.5 底部脚注",
+      "4.1 彩色数字排名",
+      "4.2 轮播指示器",
+      "4.3 缩略图 4 列网格",
+      "4.4 公告与 Loading"
+    ],
+    "notes": []
+  }
+]

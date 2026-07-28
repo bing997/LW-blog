@@ -247,6 +247,12 @@ pjax:
   exclude: []
 
 # Custom CSS injection
+# inject:
+#   head:
+#     - '<link rel="stylesheet" href="/LW-blog/css/custom.css">'
+#     - '<link rel="stylesheet" href="/LW-blog/music/player.css">'
+#   bottom:
+#     - '<script src="/LW-blog/music/player.js" defer></script>'
 inject:
   head:
     - '<link rel="stylesheet" href="/css/custom.css">'

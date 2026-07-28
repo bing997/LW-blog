@@ -1,7 +1,8 @@
-# Hexo 部署环境配置
-# 用于 GitHub Pages 部署时覆盖主配置
-# 用法：npx hexo deploy --config _config.yml,_config.deploy.yml
-
-# URL
-## GitHub Pages 部署路径（项目子目录）
 root: /LW-blog/
+
+inject:
+  head:
+    - '<link rel="stylesheet" href="/LW-blog/css/custom.css">'
+    - '<link rel="stylesheet" href="/LW-blog/music/player.css">'
+  bottom:
+    - '<script src="/LW-blog/music/player.js" defer></script>'

@@ -17,7 +17,11 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://bing997.github.io/LW-blog
+#本地开发
+#url: https://bing997.github.io/LW-blog
+#root: /LW-blog/
+#部署到指定域名
+url: https://itdxb.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
