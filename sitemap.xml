@@ -4,7 +4,7 @@
   <url>
     <loc>https://itdxb.cn/projects.json</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://itdxb.cn/projects_all.json</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://itdxb.cn/tags/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://itdxb.cn/projects/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,25 +40,7 @@
   <url>
     <loc>https://itdxb.cn/link/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/gallery/product/index.html</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/gallery/travel/index.html</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,124 +49,25 @@
   <url>
     <loc>https://itdxb.cn/gallery/scenery/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/08/20/vue/document/vue2%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>https://itdxb.cn/gallery/travel/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/vue/document/Vue/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/08/21/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89%E5%88%9D%E8%AF%86%20-%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%20-%20%E5%88%9B%E5%BB%BAVue%E5%AF%B9%E8%B1%A1%20-%20%E5%8F%8C%E5%90%91%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%20-%20MVVM%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://itdxb.cn/gallery/product/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/22/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%89%EF%BC%89%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7%E4%B8%8E%E7%9B%91%E8%A7%86%E5%B1%9E%E6%80%A7/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/25/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%94%EF%BC%89%E5%88%97%E8%A1%A8%E6%B8%B2%E6%9F%93v-for%E3%80%81key%E7%9A%84%E5%8E%9F%E7%90%86%E3%80%81%E5%88%A0%E9%99%A4%E6%9B%BF%E6%8D%A2%E3%80%81%E8%BF%87%E6%BB%A4%E4%B8%8E%E6%8E%92%E5%BA%8F/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/21/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95%20-%20%E6%8F%92%E5%80%BC%E8%AF%AD%E6%B3%95%20-%20%E6%8C%87%E4%BB%A4%E8%AF%AD%E6%B3%95/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/25/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E5%85%AB%EF%BC%89%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20-%20%E5%88%9D%E5%A7%8B%E5%8C%96%E6%98%BE%E7%A4%BA%20-%20%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81%20-%20%E6%AD%BB%E4%BA%A1%E7%8A%B6%E6%80%81%20-%20%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/25/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E5%9B%9B%EF%BC%89%E6%A0%B7%E5%BC%8F%E7%BB%91%E5%AE%9A%20-%20class%20-%20style/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/25/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%83%EF%BC%89v-model%20-%20%E8%87%AA%E5%8A%A8%E6%94%B6%E9%9B%86%E6%95%B0%E6%8D%AE%20-%20%E8%A1%A8%E5%8D%95%E6%95%B0%E6%8D%AE%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/25/vue/document/%E3%80%90Vue%E3%80%91%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E5%85%AD%EF%BC%89%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%20-%20%E7%BB%91%E5%AE%9A%E7%9B%91%E5%90%AC%20-%20%E4%BA%8B%E4%BB%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6%20-%20%E6%8C%89%E9%94%AE%E4%BF%AE%E9%A5%B0%E7%AC%A6/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/about/index.html</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/categories/index.html</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/books/index.html</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -193,7 +76,124 @@
   <url>
     <loc>https://itdxb.cn/gallery/index.html</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/03/vue/document/02-%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/01/vue/document/01-Vue.js%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/04/vue/document/03-Vue%20Router%E8%B7%AF%E7%94%B1/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/06/vue/document/05-%E7%BB%84%E4%BB%B6%E8%BF%9B%E9%98%B6/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/08/vue/document/07-Composition%20API/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/07/vue/document/06-%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82Axios/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/05/vue/document/04-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86Pinia/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/08/vue/document/08-%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/09/vue/document/09-%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B%E8%BF%9B%E9%98%B6/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/30/vue/document/Vue.js%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/about/index.html</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/books/index.html</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/categories/index.html</loc>
+    
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -202,16 +202,7 @@
   <url>
     <loc>https://itdxb.cn/2026/07/23/python/document/%E3%80%90Python%E3%80%91%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%EF%BC%88%E7%AC%AC%E4%B8%83%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -220,25 +211,7 @@
   <url>
     <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E6%A8%A1%E5%9D%97%E3%80%81%E5%8C%85%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%EF%BC%88%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2026/07/23/python/document/%E3%80%90Python%E3%80%91%E6%A0%87%E5%87%86%E5%BA%93%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9D%97%EF%BC%88%E7%AC%AC%E5%85%AB%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2026/07/23/python/document/%E3%80%90Python%E3%80%91%E6%96%87%E4%BB%B6IO%E4%B8%8E%E5%BA%8F%E5%88%97%E5%8C%96%EF%BC%88%E7%AC%AC%E5%85%AD%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -247,16 +220,16 @@
   <url>
     <loc>https://itdxb.cn/2026/07/24/python/document/%E3%80%90Python%E3%80%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%9E%B6%E6%9E%84%E6%80%9D%E7%BB%B4%EF%BC%88%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E4%B8%8E%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
+    <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -265,7 +238,7 @@
   <url>
     <loc>https://itdxb.cn/2026/07/23/python/document/%E3%80%90Python%E3%80%91%E5%B7%A5%E7%A8%8B%E5%8C%96%E4%B8%8E%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%EF%BC%88%E7%AC%AC%E4%B9%9D%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -274,25 +247,25 @@
   <url>
     <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%B8%8E%E8%B0%83%E8%AF%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/07/31/node.js/document/01-ES6%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://itdxb.cn/2026/07/23/python/document/%E3%80%90Python%E3%80%91%E6%96%87%E4%BB%B6IO%E4%B8%8E%E5%BA%8F%E5%88%97%E5%8C%96%EF%BC%88%E7%AC%AC%E5%85%AD%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/09/03/node.js/document/02-Node.js%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91/</loc>
+    <loc>https://itdxb.cn/2026/07/23/python/document/%E3%80%90Python%E3%80%91%E6%A0%87%E5%87%86%E5%BA%93%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9D%97%EF%BC%88%E7%AC%AC%E5%85%AB%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -301,7 +274,7 @@
   <url>
     <loc>https://itdxb.cn/2026/07/24/python/document/%E3%80%90Python%E3%80%91%E5%86%85%E9%83%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E6%89%A9%E5%B1%95%EF%BC%88%E7%AC%AC%E5%8D%81%E4%B8%80%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -310,7 +283,16 @@
   <url>
     <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E5%87%BD%E6%95%B0%E4%B8%8E%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2026/07/22/python/document/%E3%80%90Python%E3%80%91%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E4%B8%8E%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -319,7 +301,214 @@
   <url>
     <loc>https://itdxb.cn/2026/07/24/python/document/%E3%80%90Python%E3%80%91%E4%B8%BB%E6%B5%81%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F%EF%BC%88%E7%AC%AC%E5%8D%81%E9%98%B6%E6%AE%B5%EF%BC%89/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/20/node.js/document/01-Node.js%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%B8%8EES6%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/22/node.js/document/03-Node.js%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9D%97%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/23/node.js/document/04-Node.js%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E4%B8%8E%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/21/node.js/document/02-Node.js%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/25/node.js/document/06-Express%E6%A1%86%E6%9E%B6%E5%AE%9E%E6%88%98/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/26/node.js/document/07-%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C%E5%AE%9E%E6%88%98/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/27/node.js/document/08-%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/24/node.js/document/05-Node.js%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E4%B8%8EWeb%E6%9C%8D%E5%8A%A1/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/28/node.js/document/09-%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B%EF%BC%88%E8%BF%9B%E9%98%B6%EF%BC%89/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/09/19/node.js/document/Node.js%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/03/mysql/document/04-MySQL%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E4%B8%8E%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/04/mysql/document/05-MySQL%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%EF%BC%9A%E8%A7%86%E5%9B%BE%E4%B8%8EDCL/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/05/mysql/document/06-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E4%B8%8EER%E6%A8%A1%E5%9E%8B/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/06/mysql/document/07-MySQL%E4%BA%8B%E5%8A%A1%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/10/31/mysql/document/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/01/mysql/document/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C%E5%AE%9E%E6%88%98/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/02/mysql/document/MySQL%E6%9F%A5%E8%AF%A2%E8%BF%9B%E9%98%B6%EF%BC%9A%E8%BF%90%E7%AE%97%E7%AC%A6%E3%80%81%E5%A4%9A%E8%A1%A8%E6%9F%A5%E8%AF%A2%E4%B8%8E%E5%AD%90%E6%9F%A5%E8%AF%A2/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/09/jdbc/document/01-JDBC%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%9A%E6%A6%82%E5%BF%B5%E3%80%81%E8%BF%9E%E6%8E%A5%E4%B8%8E%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%B0%81%E8%A3%85/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/11/jdbc/document/03-JDBC%E8%BF%9B%E9%98%B6%EF%BC%9A%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/10/jdbc/document/02-JDBC%E6%A0%B8%E5%BF%83API%EF%BC%9AStatement%E3%80%81PreparedStatement%E4%B8%8ECRUD%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/12/jdbc/document/04-JDBC%E5%AE%9E%E6%88%98%EF%BC%9A%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E9%85%8D%E7%BD%AE%E4%B8%8E%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/08/maven/document/02-Maven%E8%BF%9B%E9%98%B6%E5%AE%9E%E6%88%98%EF%BC%9A%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E3%80%81%E6%8F%92%E4%BB%B6%E4%B8%8E%E5%A4%9A%E6%A8%A1%E5%9D%97%E7%AE%A1%E7%90%86/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/11/07/maven/document/01-Maven%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%9A%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -328,7 +517,7 @@
   <url>
     <loc>https://itdxb.cn/2024/08/07/bootstrap%E6%A1%86%E6%9E%B6/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -337,7 +526,7 @@
   <url>
     <loc>https://itdxb.cn/2026/05/03/hello-world/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -346,52 +535,7 @@
   <url>
     <loc>https://itdxb.cn/2024/08/20/bootstrap/document/bootstrap%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/01-%E5%88%9D%E5%A7%8Bbootstrap%E6%A1%86%E6%9E%B6/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/02-%E6%A0%85%E6%A0%BC%E7%B3%BB%E7%BB%9F/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/03-CSS%E5%B8%83%E5%B1%80/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/05-Bootstrap%20%E7%BB%84%E4%BB%B6%E7%B3%BB%E7%BB%9F/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/07-Bootstrap%20%E5%AE%9E%E6%88%98%E4%B8%8E%E5%AE%9A%E5%88%B6/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -400,34 +544,16 @@
   <url>
     <loc>https://itdxb.cn/2024/08/20/bootstrap/document/04-Bootstrap%204%20%E7%9A%84%E6%96%B0%E5%B8%83%E5%B1%80%E2%80%94%E5%BC%B9%E6%80%A7%E7%9B%92%E5%AD%90/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/08-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E6%8B%9B%E8%81%98%E7%BD%91%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF/</loc>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/02-%E6%A0%85%E6%A0%BC%E7%B3%BB%E7%BB%9F/</loc>
     
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/09-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E4%BB%BF%E6%98%9F%E5%B7%B4%E5%85%8B%E7%BD%91%E7%AB%99/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/10-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E7%9B%B8%E5%86%8C%E7%B1%BB%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -436,25 +562,61 @@
   <url>
     <loc>https://itdxb.cn/2024/08/20/bootstrap/document/06-Bootstrap%20JavaScript%20%E6%8F%92%E4%BB%B6/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/13-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%BC%80%E5%8F%91%E7%A5%9E%E5%BD%B1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/07-Bootstrap%20%E5%AE%9E%E6%88%98%E4%B8%8E%E5%AE%9A%E5%88%B6/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/12-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9AWeb%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9A%E5%88%B6%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/03-CSS%E5%B8%83%E5%B1%80/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/05-Bootstrap%20%E7%BB%84%E4%BB%B6%E7%B3%BB%E7%BB%9F/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/08-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E6%8B%9B%E8%81%98%E7%BD%91%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/09-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E4%BB%BF%E6%98%9F%E5%B7%B4%E5%85%8B%E7%BD%91%E7%AB%99/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/10-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E7%9B%B8%E5%86%8C%E7%B1%BB%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -463,7 +625,34 @@
   <url>
     <loc>https://itdxb.cn/2024/08/20/bootstrap/document/11-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E8%AE%BE%E8%AE%A1%E6%B5%81%E8%A1%8C%E4%BC%81%E4%B8%9A%E7%BD%91%E7%AB%99/</loc>
     
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/12-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9AWeb%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9A%E5%88%B6%E7%BD%91%E7%AB%99/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/13-%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%BC%80%E5%8F%91%E7%A5%9E%E5%BD%B1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/2024/08/20/bootstrap/document/01-%E5%88%9D%E5%A7%8Bbootstrap%E6%A1%86%E6%9E%B6/</loc>
+    
+    <lastmod>2026-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -472,253 +661,687 @@
 
   <url>
     <loc>https://itdxb.cn/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://itdxb.cn/tags/bootstrap/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://itdxb.cn/tags/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E6%AF%95%E8%AE%BE/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/bootstrap/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/tags/Node-js/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <loc>https://itdxb.cn/tags/jdbc/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/java/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E4%BA%8B%E5%8A%A1/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Druid/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/ThreadLocal/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/PreparedStatement/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/CRUD/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/DAO%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/maven/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%A4%9A%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Profile/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/mysql/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/SQL/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%B4%A2%E5%BC%95/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E8%A7%86%E5%9B%BE/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/DCL/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/ER%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E4%B8%89%E8%8C%83%E5%BC%8F/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/EXPLAIN/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%9F%A5%E8%AF%A2/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/nodejs/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%A8%A1%E5%9D%97%E5%8C%96/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Express/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Vue-js/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%BB%84%E4%BB%B6%E5%8C%96/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Props/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E4%BA%8B%E4%BB%B6/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%8F%92%E6%A7%BD/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/vue/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Vue-Router/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E8%B7%AF%E7%94%B1/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%AF%BC%E8%88%AA%E5%AE%88%E5%8D%AB/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8C%87%E4%BB%A4/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Teleport/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Suspense/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%BC%82%E6%AD%A5%E7%BB%84%E4%BB%B6/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Composition-API/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/ref/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/reactive/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%BB%84%E5%90%88%E5%BC%8F%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Axios/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/HTTP%E8%AF%B7%E6%B1%82/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Token/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Pinia/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/Store/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/Python/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E5%86%85%E9%83%A8%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/GIL/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E5%B7%A5%E7%A8%8B%E5%8C%96/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/CI-CD/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E8%B0%83%E8%AF%95/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E6%A8%A1%E5%9D%97/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/Web%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/tags/%E6%A0%87%E5%87%86%E5%BA%93/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <loc>https://itdxb.cn/tags/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/tags/collections/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/itertools/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <loc>https://itdxb.cn/tags/%E8%B0%83%E8%AF%95/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E6%96%87%E4%BB%B6IO/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E5%BA%8F%E5%88%97%E5%8C%96/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E6%A0%87%E5%87%86%E5%BA%93/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/collections/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/itertools/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/SOLID/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E6%9E%B6%E6%9E%84/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/Vue/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E8%BF%AD%E4%BB%A3%E5%99%A8/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/tags/%E8%A3%85%E9%A5%B0%E5%99%A8/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E8%BF%AD%E4%BB%A3%E5%99%A8/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/tags/%E8%A3%85%E9%A5%B0%E5%99%A8/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -726,36 +1349,57 @@
 
   
   <url>
-    <loc>https://itdxb.cn/categories/bootstrap/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://itdxb.cn/categories/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://itdxb.cn/categories/Node-js/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <loc>https://itdxb.cn/categories/bootstrap/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/categories/jdbc/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/categories/maven/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/categories/mysql/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/categories/node-js/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://itdxb.cn/categories/vue/</loc>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://itdxb.cn/categories/Python/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://itdxb.cn/categories/Vue/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
