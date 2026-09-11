@@ -111,5 +111,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:bing997/LW-blog.git
+  repo: https://github.com/bing997/LW-blog.git
   branch: gh-pages
+  token: # 在环境变量中设置 GITHUB_TOKEN
