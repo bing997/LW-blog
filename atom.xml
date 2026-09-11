@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Super Bing</rights>
   <subtitle>分享软件工程毕业设计项目</subtitle>
   <title>Super Bing`s Hexo</title>
-  <updated>2026-09-11T09:12:03.167Z</updated>
+  <updated>2026-09-11T09:23:32.867Z</updated>
   <entry>
     <author>
       <name>Super Bing</name>
@@ -29,7 +29,7 @@
     <published>2026-07-24T04:00:00.000Z</published>
     <summary>深入理解设计原则（SOLID）和常用设计模式，建立架构思维，学会在合适场景选择合适方案。</summary>
     <title>【Python】设计模式与架构思维（第十二阶段）</title>
-    <updated>2026-09-11T09:12:03.167Z</updated>
+    <updated>2026-09-11T09:23:32.867Z</updated>
   </entry>
   <entry>
     <author>
@@ -49,7 +49,7 @@
     <published>2026-07-24T03:00:00.000Z</published>
     <summary>深入 Python 内部机制，理解 CPython 解释器、GIL、内存管理、字节码等核心原理，以及如何用 C/C++ 扩展 Python。</summary>
     <title>【Python】内部原理与扩展（第十一阶段）</title>
-    <updated>2026-09-11T09:12:03.165Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -69,7 +69,7 @@
     <published>2026-07-24T02:00:00.000Z</published>
     <summary>Python 主流应用领域全景，涵盖 Web 开发、数据科学、爬虫、AI/ML、自动化运维等方向，帮助你建立领域地图并选择深入方向。</summary>
     <title>【Python】主流应用领域（第十阶段）</title>
-    <updated>2026-09-11T09:12:03.164Z</updated>
+    <updated>2026-09-11T09:23:32.865Z</updated>
   </entry>
   <entry>
     <author>
@@ -89,7 +89,7 @@
     <published>2026-07-23T08:00:00.000Z</published>
     <summary>Python 工程化实践，涵盖编码规范、测试策略、性能优化、CI/CD 和项目发布，建立&quot;可维护、可协作、可交付&quot;的工程思维。</summary>
     <title>【Python】工程化与代码质量（第九阶段）</title>
-    <updated>2026-09-11T09:12:03.165Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -109,7 +109,7 @@
     <published>2026-07-23T07:00:00.000Z</published>
     <summary>Python 标准库核心模块详解，按功能分类梳理常用库，建立&quot;标准库优先&quot;的工程思维。</summary>
     <title>【Python】标准库核心模块（第八阶段）</title>
-    <updated>2026-09-11T09:12:03.166Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -129,7 +129,7 @@
     <published>2026-07-23T06:00:00.000Z</published>
     <summary>深入 Python 核心机制，掌握迭代器、生成器、装饰器、上下文管理器、描述符、元类、协程和类型系统。</summary>
     <title>【Python】高级特性（第七阶段）</title>
-    <updated>2026-09-11T09:12:03.167Z</updated>
+    <updated>2026-09-11T09:23:32.867Z</updated>
   </entry>
   <entry>
     <author>
@@ -148,7 +148,7 @@
     <published>2026-07-23T02:00:00.000Z</published>
     <summary>系统掌握 Python 文件读写、pathlib、上下文管理器、JSON/Pickle/CSV/XML 序列化、压缩归档和工程实践。</summary>
     <title>【Python】文件I/O与序列化（第六阶段）</title>
-    <updated>2026-09-11T09:12:03.166Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -167,7 +167,7 @@
     <published>2026-07-22T08:00:00.000Z</published>
     <summary>系统掌握 Python 模块与包的导入机制、项目目录组织、pyproject.toml 配置、循环导入解决和工程最佳实践。</summary>
     <title>【Python】模块、包与项目结构（第五阶段）</title>
-    <updated>2026-09-11T09:12:03.166Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -186,7 +186,7 @@
     <published>2026-07-22T06:00:00.000Z</published>
     <summary>系统掌握 Python 异常处理机制、日志系统、调试技巧和生产环境最佳实践，建立防御性编程思维。</summary>
     <title>【Python】异常处理与调试（第四阶段）</title>
-    <updated>2026-09-11T09:12:03.166Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -204,7 +204,7 @@
     <published>2026-07-22T04:00:00.000Z</published>
     <summary>系统掌握 Python 面向对象编程——类与对象、封装继承多态、魔术方法协议、元类与描述符、dataclass 与经典设计模式。</summary>
     <title>【Python】面向对象编程（第三阶段）</title>
-    <updated>2026-09-11T09:12:03.167Z</updated>
+    <updated>2026-09-11T09:23:32.867Z</updated>
   </entry>
   <entry>
     <author>
@@ -222,7 +222,7 @@
     <published>2026-07-22T03:00:00.000Z</published>
     <summary>从函数定义到函数式编程范式，系统掌握 Python 中&quot;一等公民&quot;函数、参数系统、作用域、闭包、装饰器与生成器。</summary>
     <title>【Python】函数与函数式编程（第二阶段）</title>
-    <updated>2026-09-11T09:12:03.165Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -240,7 +240,7 @@
     <published>2026-07-22T02:00:00.000Z</published>
     <summary>建立 Python 编程的根基，掌握语言核心机制与开发环境配置。此阶段的重点是&quot;知其然且知其所以然&quot;，养成 Pythonic 的编码直觉。</summary>
     <title>【Python】基础语法与核心编程（第一阶段）</title>
-    <updated>2026-09-11T09:12:03.165Z</updated>
+    <updated>2026-09-11T09:23:32.866Z</updated>
   </entry>
   <entry>
     <author>
@@ -259,7 +259,7 @@
       <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" cla]]>
     </summary>
     <title>欢迎使用毕设项目库</title>
-    <updated>2026-09-11T09:12:03.160Z</updated>
+    <updated>2026-09-11T09:23:32.859Z</updated>
   </entry>
   <entry>
     <author>
@@ -279,7 +279,7 @@
     <published>2024-11-12T08:00:00.000Z</published>
     <summary>JDBC 实战教程，涵盖表关联关系配置（单向/双向）、DAO 模式完整实现、员工管理案例、学生管理系统项目实战。</summary>
     <title>JDBC实战：关联关系配置与项目案例</title>
-    <updated>2026-09-11T09:12:03.160Z</updated>
+    <updated>2026-09-11T09:23:32.861Z</updated>
   </entry>
   <entry>
     <author>
@@ -301,7 +301,7 @@
     <published>2024-11-11T08:00:00.000Z</published>
     <summary>JDBC 进阶教程，涵盖 JDBC 事务管理（ACID、setAutoCommit、commit、rollback）、银行转账案例、数据库连接池（Druid、HikariCP）、ThreadLocal 线程隔离。</summary>
     <title>JDBC进阶：事务管理与数据库连接池</title>
-    <updated>2026-09-11T09:12:03.160Z</updated>
+    <updated>2026-09-11T09:23:32.861Z</updated>
   </entry>
   <entry>
     <author>
@@ -322,7 +322,7 @@
     <published>2024-11-10T08:00:00.000Z</published>
     <summary>JDBC 核心 API 教程，涵盖三种执行 SQL 对象（Statement、PreparedStatement、CallableStatement）、CRUD 操作、获取自增主键、分页查询、批量操作等。</summary>
     <title>JDBC核心API：Statement、PreparedStatement与CRUD操作</title>
-    <updated>2026-09-11T09:12:03.160Z</updated>
+    <updated>2026-09-11T09:23:32.861Z</updated>
   </entry>
   <entry>
     <author>
@@ -341,7 +341,7 @@
     <published>2024-11-09T08:00:00.000Z</published>
     <summary>JDBC 基础入门教程，涵盖数据持久化概念、JDBC 规范架构、程序编写步骤、获取数据库连接、工具类封装、try-with-resources 语法。</summary>
     <title>JDBC基础入门：概念、连接与工具类封装</title>
-    <updated>2026-09-11T09:12:03.160Z</updated>
+    <updated>2026-09-11T09:23:32.860Z</updated>
   </entry>
   <entry>
     <author>
@@ -361,7 +361,7 @@
     <published>2024-11-08T08:00:00.000Z</published>
     <summary>Maven 进阶实战教程，涵盖生命周期与插件、多模块项目管理、构建配置（Profile、资源过滤）、高级技巧与最佳实践。</summary>
     <title>Maven进阶实战：生命周期、插件与多模块管理</title>
-    <updated>2026-09-11T09:12:03.161Z</updated>
+    <updated>2026-09-11T09:23:32.862Z</updated>
   </entry>
   <entry>
     <author>
@@ -380,7 +380,7 @@
     <published>2024-11-07T08:00:00.000Z</published>
     <summary>Maven 基础入门教程，涵盖核心概念（POM、坐标）、依赖管理（Scope、传递、冲突解决）、仓库管理（本地/远程仓库）、常用命令与参数。</summary>
     <title>Maven基础入门：核心概念与依赖管理</title>
-    <updated>2026-09-11T09:12:03.161Z</updated>
+    <updated>2026-09-11T09:23:32.862Z</updated>
   </entry>
   <entry>
     <author>
@@ -402,6 +402,6 @@
     <published>2024-11-06T08:00:00.000Z</published>
     <summary>MySQL 事务与性能优化教程，涵盖事务ACID特性、四种隔离级别、并发问题、慢查询日志配置、EXPLAIN详解、慢SQL优化方法、数据库备份与恢复。</summary>
     <title>MySQL事务与性能优化</title>
-    <updated>2026-09-11T09:12:03.161Z</updated>
+    <updated>2026-09-11T09:23:32.862Z</updated>
   </entry>
 </feed>
